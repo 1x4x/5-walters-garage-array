@@ -1,4 +1,4 @@
-#  Walters Garage 1.0 :car: :taxi:<br>
+#  Walters Garage 1 :car: :taxi:<br>
 Ange garagets kapacitet (1-100 fordon): 1<br>
 Vill du lägga in exempel-fordon vid start? (j/n): n<br>
 <br>
